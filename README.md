@@ -46,4 +46,4 @@ This project focuses on analyzing customer churn data from PowerCo, an energy ut
 - Online services like Tech Support, Streaming TV are also linked with churn.
 
 # How to run the project
-(https://github.com/Nandini-Shivappa/PowerCo-Customer-Churn-Analysis-)
+(https://colab.research.google.com/drive/1sznuj4q518X7X2jcZUe8eqIR6Ig7cyBF?usp=sharing)
